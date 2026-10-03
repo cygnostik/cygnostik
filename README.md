@@ -1,6 +1,6 @@
 <a href="https://prodyn.ai/"><picture><source media="(prefers-reduced-motion: reduce) and (max-width: 640px)" srcset="assets/hero-mobile-static.svg?v=2"><source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-static.svg?v=2"><source media="(max-width: 640px)" srcset="assets/hero-mobile.svg?v=2"><img src="assets/hero.svg?v=2" width="100%" alt="Chris Mish / cygnostik. Technical Strategist, Looking for better questions. Systems, software, curiosity. ProDyn.ai."></picture></a>
 
-## I make systems work. Then I make them interesting.
+## I experiment with ways to make complicated systems visible, useful, and enjoyable to interact with.
 
 I’m **Chris Mish**. I work across networks, hosting, systems, and software at **[Promethean Dynamic](https://promethean-dynamic.com/)**. I like making complicated things understandable, reliable, and good to spend time with.
 
